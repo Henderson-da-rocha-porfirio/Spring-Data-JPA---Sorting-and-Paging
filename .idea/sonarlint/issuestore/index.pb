@@ -160,7 +160,11 @@ i
 -.idea/libraries/Maven__junit_junit_4_13_2.xml,5\4\54f4510b91c2683595ce2e8f36b90b301f51d8d3
 @
 produtosdata.iml,9\2\921598a044fae7caf9640b29d74b668b19a50dec
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 |
 Lsrc/main/java/com/tuyo/produtodata/produtosdata/ProdutosdataApplication.java,8\6\86505ea162519a2e5eecc4f55be93d429c887446
+u
+Esrc/main/java/com/tuyo/produtodata/produtosdata/entities/Produto.java,9\9\99b19878753b2a7cec8760f96e97d757a879d395
+Å
+Qsrc/test/java/com/tuyo/produtodata/produtosdata/ProdutosdataApplicationTests.java,6\e\6e220a168160a62ee06cfcc0f38dc7eb2fe079c7
+Å
+Qsrc/main/java/com/tuyo/produtodata/produtosdata/repository/ProdutoRepository.java,8\2\821b51bfe6c7bfb3ae2129e01edd2868bac5a93d
